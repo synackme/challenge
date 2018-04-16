@@ -8,7 +8,7 @@ U - "\*\*\*redacted\*\*\*" P - "\*\*\*redacted\*\*\*".
 
 This application is a front-end testing interface to a trading system. ***THE WEB APPLICATION IS NOT IN SCOPE***. 
 
-We have already tested you on web application vulnerabilities this is something completely different. The ==underlying protocol== is what we want tested here. This means you will ==need some way of intercepting the communication between the trading client and the backend==.
+We have already tested you on web application vulnerabilities this is something completely different. The **underlying protocol** is what we want tested here. This means you will **need some way of intercepting the communication between the trading client and the backend**.
 
 ## Basic terms & conditions:
 
